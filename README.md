@@ -1,2 +1,1 @@
-# YingdaFan-AI-Project2
-Project2 code files and txt
+# AC-3 Algorithm achieved by Python
